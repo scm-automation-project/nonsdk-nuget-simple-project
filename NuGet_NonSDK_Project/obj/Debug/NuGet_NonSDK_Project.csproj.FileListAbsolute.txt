@@ -1,0 +1,10 @@
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\bin\Debug\NuGet_NonSDK_Project.exe.config
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\bin\Debug\NuGet_NonSDK_Project.exe
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\bin\Debug\NuGet_NonSDK_Project.pdb
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\obj\Debug\NuGet_NonSDK_Project.csproj.AssemblyReference.cache
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\obj\Debug\NuGet_NonSDK_Project.csproj.CoreCompileInputs.cache
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\obj\Debug\NuGet_NonSDK_Project.csproj.CopyComplete
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\obj\Debug\NuGet_NonSDK_Project.exe
+C:\Users\SultanAbuBaker\source\repos\NuGet_NonSDK_Project\NuGet_NonSDK_Project\obj\Debug\NuGet_NonSDK_Project.pdb
